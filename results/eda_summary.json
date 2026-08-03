@@ -1,0 +1,21 @@
+{
+  "n_documentos_train": 8000,
+  "n_clases": 4,
+  "clases": [
+    "Business",
+    "Sci_Tech",
+    "Sports",
+    "World"
+  ],
+  "class_counts": {
+    "Business": 2000,
+    "Sci_Tech": 2000,
+    "Sports": 2000,
+    "World": 2000
+  },
+  "percentil_50_tokens": 37,
+  "percentil_95_tokens": 53,
+  "min_tokens": 7,
+  "max_tokens": 144,
+  "n_stopwords_en_top50": 35
+}
